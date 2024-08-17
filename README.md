@@ -1,1 +1,1 @@
-implementation of basic sorting algorithms 
+looping structure and conditional statements
